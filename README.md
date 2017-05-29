@@ -4,3 +4,6 @@ This category of UIViewController helps toggle visibility of UIDebuggingInformat
 
 
 If you wish to use an Objective-C category you can find one <a href = "https://github.com/DreamingInBinary/UIDebuggingInformationOverlay"> here </a>
+
+
+Note of caution: This code although minimal hasnt been extensively tested. So please use it at your own risk
